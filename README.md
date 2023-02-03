@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Saifur Rahman Sabbir
-#### Web Developer
+#### A full time web application developer.
 I'm a web application developer who is possionate about making error free websites with 99% client satisfaction. I love to solve real world problems. I enjoy working with reactjs and javascript.
 
-Skills: REACT /REACT TYPESCRIPT /JS /ANGULAR /VEU3
+Skills: REACT/JS/ANGULAR/VEU3/REACT TYPESCRIPT
 
 - 🔭 I’m currently working on Upwork. 
 - 🌱 I’m currently learning Javascript. 
